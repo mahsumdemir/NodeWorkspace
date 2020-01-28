@@ -1,0 +1,24 @@
+.csv-input {
+	width: 40%;
+	height: 100vh;
+	display: inline-block;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.csv-input textarea {
+	height: 100%;
+	width: 100%;
+}
+
+.convert {
+	margin: auto 0;
+}
+
+.json-output {
+	height: 100vh;
+	width: 40%;
+	background-color: purple;
+	display: inline-block;
+	box-sizing: border-box;
+}
